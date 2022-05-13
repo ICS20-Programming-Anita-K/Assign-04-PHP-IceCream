@@ -1,1 +1,2 @@
 # Assign-04-PHP-IceCream
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-Anita-K/Assign-04-PHP-IceCream/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Anita-K/Assign-04-PHP-IceCream/actions)
